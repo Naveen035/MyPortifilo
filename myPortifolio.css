@@ -140,6 +140,7 @@ nav ul li a:hover::after {
 .tab-contents ul li {
     list-style: none;
     margin: 10px 0;
+    cursor: pointer;
 }
 
 .tab-contents ul li span {
@@ -199,8 +200,8 @@ html {
 }
 
 .services-list div :hover {
-    background: #ff004f;
-    transform: translateY(-10px);
+    background: #e8776d;
+    transform: translateY(-5px);
 }
 
 #portofilo {
